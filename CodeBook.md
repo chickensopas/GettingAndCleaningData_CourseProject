@@ -8,3 +8,7 @@
 *`data_final`: filtered table containing subject, activity, means, and standard deviations\
 *`means`: intermediate table for computing means per subject, per activity\
 *`means_summary`: tidy dataset containing the average of each variable for each activity and each subject\
+## Transformations
+* The test and training datasets were merged into one dataset\
+* The resulting table was then filtered to contain only means and standard devivations, apart from the subject and activity columns
+* Activity names were transformed from numeric codes to descriptive labels
