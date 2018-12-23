@@ -25,6 +25,6 @@ The Averages_tidydataset.txt column descriptions are as follows:\
 *`Columns 3 - 81`: Means and standards deviations of the quantities observed from the original dataset
 
 ## Transformations
-* The test and training datasets were merged into one dataset\
+* The test and training datasets were merged into one dataset
 * The resulting table was then filtered to contain only means and standard devivations, apart from the subject and activity columns
 * Activity names were transformed from numeric codes to descriptive labels
