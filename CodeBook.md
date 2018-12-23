@@ -19,7 +19,7 @@ The run_analysis.R script contains the following variables:\
 *`means`: intermediate table for computing means per subject, per activity\
 *`means_summary`: tidy dataset containing the average of each variable for each activity and each subject\
 \
-The Averages_tidydataset.txt file contains the following variables:\
+The Averages_tidydataset.txt column descriptions are as follows:\
 *`Column 1`: Subject number, from 1 -30\
 *`Column 2`: Activity performed by the subject during the observation (Walking, Walking Upstairs, Walking Downstairs, Sitting, Standing, Laying\
 *`Columns 3 - 81`: Means and standards deviations of the quantities observed from the original dataset
