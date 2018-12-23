@@ -21,8 +21,8 @@ The run_analysis.R script contains the following variables:\
 \
 The Averages_tidydataset.txt column descriptions are as follows:\
 *`Column 1`: Subject number, from 1 -30\
-*`Column 2`: Activity performed by the subject during the observation (Walking, Walking Upstairs, Walking Downstairs, Sitting, Standing, Laying\
-*`Columns 3 - 81`: Means and standards deviations of the quantities observed from the original dataset
+*`Column 2`: Activity performed by the subject during the observation (Walking, Walking Upstairs, Walking Downstairs, Sitting, Standing, Laying)\
+*`Columns 3 - 81`: Means and standards deviations of the quantities observed during the experiments
 
 ## Transformations
 * The test and training datasets were merged into one dataset
